@@ -11,5 +11,6 @@ function product(a,b){
 }
 
 function add (a,b) {
+    //this is a sum
     return a+b;
 }
