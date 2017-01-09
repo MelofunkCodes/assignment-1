@@ -3,7 +3,7 @@ function product(a,b){
         return b;
     }
     else if (a === 2){
-        return b+b;
+        return ((b+b)*Math.random();
     }
     else{
         return "I can't do math that complex";
