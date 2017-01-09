@@ -3,6 +3,7 @@ function product(a,b){
         return b;
     }
     else if (a === 2){
+        //adding comment for kicks
         return ((b+b)*Math.random());
     }
     else{
