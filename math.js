@@ -1,4 +1,4 @@
-function multiply(a,b){
+function product(a,b){
     if (a === 1){
         return b;
     }
